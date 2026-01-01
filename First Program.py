@@ -1,0 +1,2 @@
+print("HAPPY NEW YEAR")
+print("WELCOME TO 2026")
